@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Optional: Custom font and minimal scroll styling */
+
+/* Optional scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #374151; /* equivalent to bg-gray-700 */
+  border-radius: 6px;
+}
